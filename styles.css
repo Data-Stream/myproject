@@ -1,9 +1,9 @@
 body {
-	background-color: red;
-	color: white;
+	background-color: gold;
+	color: black
 }
 
 .main {
 	margin: auto;
-	width: 400px;
+	width: 500px;
 }
